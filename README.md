@@ -1,9 +1,4 @@
-Got it ✅
-I’ll prepare a **README.md** that explains how you cleaned, analyzed, and visualized this dataset in **Jupyter Lab** — formatted so it looks professional on GitHub.
 
----
-
-````markdown
 # Customer Dataset (Cleaned, Analyzed & Visualized)
 
 ## 📌 Overview
